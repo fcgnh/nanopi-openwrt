@@ -27,6 +27,11 @@ CONFIG_PACKAGE_collectd-mod-ping=y
 CONFIG_PACKAGE_collectd-mod-thermal=y
 CONFIG_PACKAGE_ddns-scripts_cloudflare=y
 
+CONFIG_PACKAGE_luci-app-mwan3=y
+CONFIG_PACKAGE_luci-app-mwan3helper=y
+CONFIG_PACKAGE_luci-app-ramfree=y
+CONFIG_PACKAGE_luci-app-statistics=y
+
 
 
 CONFIG_PACKAGE_kmod-ath9k-htc=y
